@@ -1,0 +1,10 @@
+Segment individuals into clusters based on their eating habits.  Your Google Form should ask:
+ 
+
+Preference for veg/non-veg
+Frequency of outside food 
+Water intake per day 
+Interest in healthy eating(scale 1-5)
+Sleep time per day
+
+Use K-Means to identify groups like "Healthy Eaters","Junk Food Lovers", etc. Visualize the clusters if possible
